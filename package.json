@@ -4,11 +4,20 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node server.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PivotalSaint/note-taker.git"
+  },
+  "author": "Pivotal Saint",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PivotalSaint/zookeeper/issues"
+  },
+  "homepage": "https://github.com/PivotalSaint/note-taker#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.18.1"
   }
 }
