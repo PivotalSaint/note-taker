@@ -1,9 +1,9 @@
 # *Pivotal Note Taker*
 
 # ***Author: Jesse Van Winkle***
-    html semantics: [https://github.com/PivotalSaint/note-taker]
+html semantics: [https://github.com/PivotalSaint/note-taker]
 
-    Heroku live application page: [https://pivotal-note-taker.herokuapp.com/]
+Heroku live application page: [https://pivotal-note-taker.herokuapp.com/]
 
 # **About This Project**
     This project consist of routing different sourced data over the internet, placing in middleware, and storing the data to a client's personal server. This project uses Heroku to deploy the live application running on the client side server. 
