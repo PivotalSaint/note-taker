@@ -1,4 +1,12 @@
-# *Note Taker*
+# *Pivotal Note Taker*
+
+# ***Author: Jesse Van Winkle***
+    html semantics: https://github.com/PivotalSaint/note-taker
+
+    Heroku live application page: https://pivotal-note-taker.herokuapp.com/
+
+# **About This Project**
+    This project consist of routing different sourced data over the internet, placing in middleware, and storing the data to a client's personal server. This project uses Heroku to deploy the live application running on the client side server. 
 
 ## **Aplication Use**
     This application allows the client to be able to store notes from previous sessions, as well as, add new notes. The application allows users to edit previous notes, along with, deleting and creating different categories. 
@@ -23,3 +31,9 @@
     THEN that note appears in the right-hand column
     WHEN I click on the Write icon in the navigation at the top of the page
     THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+
+## **Screenshots of Project**
+
+![img](/images/pivotal-notes.png)
+
+![img](/images/pivotal-note-overview.png)
